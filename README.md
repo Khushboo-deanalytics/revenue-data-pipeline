@@ -69,19 +69,6 @@ Data Generation → Raw Data → Data Cleaning → Processed Data → Analytics
 ---
 
 ## 📂 Project Structure
-
----
-
-## ⚙️ Tech Stack
-
-- Python
-- Pandas
-- CSV (simulating data lake)
-- Modular pipeline design
-
----
-
-## 📂 Project Structure
 data/
 raw/
 processed/
